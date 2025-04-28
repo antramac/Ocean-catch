@@ -40,7 +40,7 @@ main {
   margin-left: 350px;
   margin-right: 350px ;
   padding: 20px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(167, 192, 202);
 }
 body {
   background-color: black;
@@ -55,8 +55,69 @@ body {
   margin-left: 350px;
   margin-right: 350px ;
   padding: 20px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(167, 192,202);
   text-align: center;
   color: rgb(23, 63, 87);
-  
+}
+.reset-password {
+  margin-left: 350px;
+  margin-right: 350px ;
+  padding: 20px;
+  background-color: rgb(167, 192, 202);
+  text-align: center;
+  color: rgb(23, 63, 87);
+}
+.signup {
+  margin-left: 350px;
+  margin-right: 350px ;
+  padding: 20px;
+  background-color: rgb(167, 192, 202);
+  text-align: center;
+  color: rgb(23, 63, 87);
+}
+.success {
+  margin-left: 350px;
+  margin-right: 350px ;
+  padding: 20px;
+  background-color: rgb(167, 192, 202);
+  text-align: center;
+  color: rgb(23, 63, 87);
+}
+.forgot-password {
+  margin-left: 350px;
+  margin-right: 350px ;
+  padding: 20px;
+  background-color: rgb(167, 192, 202);
+  text-align: center;
+  color: rgb(23, 63, 87);
+}
+.dashboard {
+  margin-left: 350px;
+  margin-right: 350px ;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+}
+.edit-profile {
+  margin-left: 350px;
+  margin-right: 350px ;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+}
+.add-post {
+  margin-left: 350px;
+  margin-right: 350px ;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+}
+.update-post {
+  margin-left: 350px;
+  margin-right: 350px ;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+}
+.edit-post {
+  margin-left: 350px;
+  margin-right: 350px ;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
 }
