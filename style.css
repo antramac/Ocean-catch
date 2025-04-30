@@ -1,126 +1,98 @@
-html {
-  height: 100%;
-  width: 100%;
-}
-h1 {
-  text-align: center;
-}
-nav {
-  text-align: center;
-}
-table {
-  width: 100%;
-  border-collapse: collapse;
-  background-color: rgb(167, 192, 202);
-  text-align: center;
-}
-tr:nth-child(even) {
-  background-color: #D6EEEE;
-}
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-header {
-  background-color: rgb(167, 192, 202);
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  text-align: center;
-  color: rgb(23, 63, 87)
-}
-footer {
-  background-color: rgb(167, 192, 202);
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  text-align: center;
-  color: rgb(23, 63, 87);
-}
-main {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(167, 192, 202);
-}
-body {
-  background-color: black;
-}
-.index {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(255, 255, 255);
-}
-.signin {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(167, 192,202);
-  text-align: center;
-  color: rgb(23, 63, 87);
-}
-.reset-password {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(167, 192, 202);
-  text-align: center;
-  color: rgb(23, 63, 87);
-}
-.signup {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(167, 192, 202);
-  text-align: center;
-  color: rgb(23, 63, 87);
-}
-.success {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(167, 192, 202);
-  text-align: center;
-  color: rgb(23, 63, 87);
-}
-.forgot-password {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(167, 192, 202);
-  text-align: center;
-  color: rgb(23, 63, 87);
-}
-.dashboard {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(255, 255, 255);
-}
-.edit-profile {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(255, 255, 255);
-}
-.add-post {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(255, 255, 255);
-}
-.update-post {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(255, 255, 255);
-}
-.edit-post {
-  margin-left: 350px;
-  margin-right: 350px ;
-  padding: 20px;
-  background-color: rgb(255, 255, 255);
-}
+
+    html {
+      height: 100%;
+      width: 100%;
+    }
+    h1 {
+      text-align: center;
+    }
+    nav {
+      text-align: center;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: rgb(167, 192, 202);
+      text-align: center;
+    }
+    tr:nth-child(even) {
+      background-color: #a7c0ca;
+    }
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+    header {
+      background-color: rgb(167, 192, 202);
+      margin-left: auto;
+      margin-right: auto;
+      padding: 20px;
+      text-align: center;
+      color: rgb(23, 63, 87);
+      width: 80%;
+    }
+    footer {
+      background-color: rgb(167, 192, 202);
+      margin-left: auto;
+      margin-right: auto;
+      padding: 20px;
+      text-align: center;
+      color: rgb(23, 63, 87);
+      width: 80%;
+    }
+    main {
+      margin-left: auto;
+      margin-right: auto;
+      padding: 20px;
+      background-color: rgb(167, 192, 202);
+      width: 80%;
+    }
+    body {
+      background-color: black;
+    }
+    .index {
+      margin-left: auto;
+      margin-right: auto;
+      padding: 20px;
+      background-color: rgb(167, 192, 202);
+      width: 80%;
+    }
+  
+  .signin {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: rgb(167, 192, 202);
+    text-align: center;
+    color: rgb(23, 63, 87);
+    width: 80%;
+  }
+    .reset-password{
+      margin-left: auto;
+      margin-right: auto;
+      padding: 20px;
+      background-color: rgb(167, 192, 202);
+      text-align: center;
+      color: rgb(23, 63, 87);
+      width: 80%;
+    }
+    .register{
+      margin-left: auto;
+      margin-right: auto;
+      padding: 20px;
+      background-color: rgb(167, 192, 202);
+      text-align: center;
+      color: rgb(23, 63, 87);
+      width: 80%;
+    }
+    .menu{
+      margin-left: auto;
+      margin-right: auto;
+      padding: 20px;
+      background-color: rgb(167, 192, 202);
+      text-align: center;
+      color: rgb(23, 63, 87);
+      width: 80%;
+    }
